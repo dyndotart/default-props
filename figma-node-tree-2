@@ -66,14 +66,14 @@
       "effects": []
     }
   ],
-  "x": -21947,
-  "y": -24051,
+  "x": 0,
+  "y": 0,
   "height": 842,
   "width": 595,
   "rotation": 0,
   "transform": [
-    [1, 0, -21947],
-    [0, 1, -24051]
+    [1, 0, 0],
+    [0, 1, 0]
   ],
   "blendMode": "PASS_THROUGH",
   "opacity": 1,
