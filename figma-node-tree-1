@@ -1,0 +1,667 @@
+{
+  "type": "FRAME",
+  "clipsContent": true,
+  "id": "521:86",
+  "name": "Scene #001",
+  "children": [
+    {
+      "type": "FRAME",
+      "clipsContent": false,
+      "id": "521:87",
+      "name": "Backgrounds / BG #10",
+      "children": [
+        {
+          "type": "RECTANGLE",
+          "id": "I521:87;0:960",
+          "name": "Wall",
+          "x": 0,
+          "y": 0,
+          "height": 4500,
+          "width": 6000,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": [],
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "CROP",
+              "imageTransform": [
+                [1, 0, 0],
+                [0, 1, 0]
+              ],
+              "scalingFactor": 0.5,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "25a07dc6604a152c834014d4ebe73bdd980ba34b"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0.5,
+      "height": 4500,
+      "width": 6000,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 0],
+        [0, 1, 0.5]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": []
+    },
+    {
+      "type": "FRAME",
+      "clipsContent": false,
+      "id": "521:88",
+      "name": "#02 Wall Frames",
+      "children": [
+        {
+          "type": "RECTANGLE",
+          "id": "I521:88;150:508",
+          "name": "Drop Shadow",
+          "x": -272.06304931640625,
+          "y": -5.761599540710449,
+          "height": 1730.3148193359375,
+          "width": 1449.05712890625,
+          "rotation": 0,
+          "transform": [
+            [1, 0, -272.06304931640625],
+            [0, 1, -5.761599540710449]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": [],
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "CROP",
+              "imageTransform": [
+                [1, 0, 0],
+                [0, 1, 0]
+              ],
+              "scalingFactor": 0.5,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "1a7209fedb9101199b59f6aba99c2ef53f1ae928"
+            }
+          ]
+        },
+        {
+          "type": "SVG",
+          "svgHash": "7e9608cae536a32a51ec26e62c4cbdc469fe7a982115bde6b26a613ef46b9e32",
+          "id": "I521:88;150:509",
+          "name": "Change Image",
+          "x": 0,
+          "y": 0,
+          "height": 1675,
+          "width": 1184,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        },
+        {
+          "type": "RECTANGLE",
+          "id": "I521:88;150:510",
+          "name": "Shadow",
+          "x": 0,
+          "y": 0,
+          "height": 1675,
+          "width": 1184,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "blendMode": "MULTIPLY",
+          "opacity": 1,
+          "isMask": false,
+          "effects": [],
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "CROP",
+              "imageTransform": [
+                [1, 0, 0],
+                [0, 1, 0]
+              ],
+              "scalingFactor": 0.5,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "9218f47d068782963a2d24a15d54c87ffef8791a"
+            }
+          ]
+        }
+      ],
+      "x": 2408,
+      "y": 641,
+      "height": 1675,
+      "width": 1184,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 2408],
+        [0, 1, 641]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": false,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": { "r": 1, "g": 1, "b": 1 }
+        }
+      ]
+    },
+    {
+      "type": "FRAME",
+      "clipsContent": false,
+      "id": "521:89",
+      "name": "Interior / Armchair",
+      "children": [
+        {
+          "type": "RECTANGLE",
+          "id": "I521:89;0:920",
+          "name": "Armchair",
+          "x": 0,
+          "y": 0,
+          "height": 2203,
+          "width": 3384,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": [],
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "CROP",
+              "imageTransform": [
+                [1, 0, 0],
+                [0, 1, 0]
+              ],
+              "scalingFactor": 0.5,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "8bf3ef6ae2d15e4d257fac4f86efcd547c1f690e"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 2301,
+      "height": 2203,
+      "width": 3384,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 0],
+        [0, 1, 2301]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": []
+    },
+    {
+      "type": "SVG",
+      "svgHash": "96db9f3121005269a2c761d20517584e4ad305f2a32118ac311101667aa6993d",
+      "id": "521:97",
+      "name": "Vector 1",
+      "x": 757.5,
+      "y": 658,
+      "height": 1034,
+      "width": 1271.5,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 757.5],
+        [0, 1, 658]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": []
+    },
+    {
+      "type": "FRAME",
+      "clipsContent": false,
+      "id": "521:90",
+      "name": "Interior / Round Table 2",
+      "children": [
+        {
+          "type": "RECTANGLE",
+          "id": "I521:90;0:899",
+          "name": "Round_Table_2",
+          "x": 0,
+          "y": 0,
+          "height": 2028,
+          "width": 1938,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": [],
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "CROP",
+              "imageTransform": [
+                [1, 0, 0],
+                [0, 1, 0]
+              ],
+              "scalingFactor": 0.5,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "c3aaaf29b1136c5fa7ad4bbe557be02ebba4d134"
+            }
+          ]
+        }
+      ],
+      "x": 3656,
+      "y": 2615,
+      "height": 2028,
+      "width": 1938,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 3656],
+        [0, 1, 2615]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": []
+    },
+    {
+      "type": "SVG",
+      "svgHash": "e552a1321df14cd3d15008ca91b04cdd04f5f4013e12d4528a680c2371349beb",
+      "id": "521:98",
+      "name": "Ellipse 1",
+      "x": 4269,
+      "y": 420,
+      "height": 808,
+      "width": 1153,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 4269],
+        [0, 1, 420]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": []
+    },
+    {
+      "type": "TEXT",
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "fontSize": 128,
+      "fontName": { "family": "Inter", "style": "Bold" },
+      "fontWeight": 700,
+      "letterSpacing": { "unit": "PERCENT", "value": 20 },
+      "lineHeight": { "unit": "AUTO" },
+      "characters": "Hello World",
+      "id": "521:99",
+      "name": "Hello World",
+      "x": 2408,
+      "y": 2366,
+      "height": 155,
+      "width": 1116,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 2408],
+        [0, 1, 2366]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": []
+    },
+    {
+      "type": "TEXT",
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "fontSize": 128,
+      "fontName": { "family": "Inter", "style": "Bold" },
+      "fontWeight": 700,
+      "letterSpacing": { "unit": "PERCENT", "value": 0 },
+      "lineHeight": { "unit": "AUTO" },
+      "characters": "Hey there its mee",
+      "id": "521:100",
+      "name": "Hey there its mee",
+      "x": 2339,
+      "y": 2734,
+      "height": 155,
+      "width": 1116,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 2339],
+        [0, 1, 2734]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": []
+    },
+    {
+      "type": "FRAME",
+      "clipsContent": true,
+      "id": "521:101",
+      "name": "alert-circle",
+      "children": [
+        {
+          "type": "SVG",
+          "svgHash": "e684be9dfc89db6e722ddfa2f9dcfa5e4543af2c93bfd18d41977f77c0c815cd",
+          "id": "521:102",
+          "name": "Vector",
+          "x": 50,
+          "y": 50,
+          "height": 500,
+          "width": 500,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 50],
+            [0, 1, 50]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        },
+        {
+          "type": "SVG",
+          "svgHash": "fffd17356e6f3dbeefb26d2db3e833565f0e7463fa9f89b16aabd870c78ccc74",
+          "id": "521:103",
+          "name": "Vector",
+          "x": 300,
+          "y": 200,
+          "height": 100,
+          "width": 0,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 300],
+            [0, 1, 200]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        },
+        {
+          "type": "SVG",
+          "svgHash": "96d04b2d4686bbee9a6beba76e1172c485efe77aaf309fdb4f3023350d9fcba2",
+          "id": "521:104",
+          "name": "Vector",
+          "x": 300,
+          "y": 400,
+          "height": 0,
+          "width": 0.25000572204589844,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 300],
+            [0, 1, 400]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        }
+      ],
+      "x": 3822,
+      "y": 1320,
+      "height": 600,
+      "width": 600,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 3822],
+        [0, 1, 1320]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": false,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": { "r": 1, "g": 1, "b": 1 }
+        }
+      ]
+    },
+    {
+      "type": "FRAME",
+      "clipsContent": true,
+      "id": "521:105",
+      "name": "anchor",
+      "children": [
+        {
+          "type": "SVG",
+          "svgHash": "860a933b2a4834dba24fa1ce04069e70968f8d82c406365fb90285721adbc009",
+          "id": "521:106",
+          "name": "Vector",
+          "x": 225,
+          "y": 50,
+          "height": 150,
+          "width": 150,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 225],
+            [0, 1, 50]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        },
+        {
+          "type": "SVG",
+          "svgHash": "d158374bbb070c58f921bf3ad39a100f8d63f3c301e2803bc8b7d4705b1c3454",
+          "id": "521:107",
+          "name": "Vector",
+          "x": 300,
+          "y": 200,
+          "height": 350,
+          "width": 0,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 300],
+            [0, 1, 200]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        },
+        {
+          "type": "SVG",
+          "svgHash": "276b1716071b409bc0af38e9be4d0239c4d18c0a2e5cd0e0088f6905419f83b1",
+          "id": "521:108",
+          "name": "Vector",
+          "x": 50,
+          "y": 300,
+          "height": 250,
+          "width": 500,
+          "rotation": 0,
+          "transform": [
+            [1, 0, 50],
+            [0, 1, 300]
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "isMask": false,
+          "effects": []
+        }
+      ],
+      "x": 4781,
+      "y": 1720,
+      "height": 600,
+      "width": 600,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 4781],
+        [0, 1, 1720]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": false,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": { "r": 1, "g": 1, "b": 1 }
+        }
+      ]
+    }
+  ],
+  "x": -24203,
+  "y": -22226,
+  "height": 4504,
+  "width": 6001,
+  "rotation": 0,
+  "transform": [
+    [1, 0, -24203],
+    [0, 1, -22226]
+  ],
+  "blendMode": "PASS_THROUGH",
+  "opacity": 1,
+  "isMask": false,
+  "effects": [],
+  "bottomLeftRadius": 0,
+  "bottomRightRadius": 0,
+  "topLeftRadius": 0,
+  "topRightRadius": 0,
+  "fills": [
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": { "r": 1, "g": 1, "b": 1 }
+    }
+  ]
+}
