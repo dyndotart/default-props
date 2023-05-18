@@ -8,14 +8,14 @@
       "type": "RECTANGLE",
       "id": "567:88",
       "name": "Rectangle 1",
-      "x": 44.50450897216797,
-      "y": 165.77328491210938,
-      "height": 176,
-      "width": 178,
-      "rotation": 27.372798106657925,
+      "x": 50,
+      "y": 200,
+      "height": 150,
+      "width": 150,
+      "rotation": 45,
       "transform": [
-        [0.8880337476730347, 0.45977821946144104, 44.50450897216797],
-        [-0.45977821946144104, 0.8880337476730347, 165.77328491210938]
+        [0.7071067690849304, 0.7071067690849304, 50],
+        [-0.7071067690849304, 0.7071067690849304, 200]
       ],
       "blendMode": "PASS_THROUGH",
       "opacity": 1,
@@ -146,17 +146,17 @@
     },
     {
       "type": "SVG",
-      "svgHash": "4553374028ad001ef8a170df9b2b75cdacbd50d86673f02f279ecd6cf56132ad",
+      "svgHash": "ac760f0b18e09b16b95debf3c8824184d30b7b987187bc8b31b097b003815c65",
       "id": "572:108",
       "name": "Ellipse 2",
-      "x": 404,
-      "y": 213,
-      "height": 143,
-      "width": 143,
+      "x": 400,
+      "y": 220,
+      "height": 150,
+      "width": 150,
       "rotation": 0,
       "transform": [
-        [1, 0, 404],
-        [0, 1, 213]
+        [1, 0, 400],
+        [0, 1, 220]
       ],
       "blendMode": "PASS_THROUGH",
       "opacity": 1,
@@ -165,17 +165,17 @@
     },
     {
       "type": "SVG",
-      "svgHash": "94bba1c13e034f58776b380d5838e9f09b23c16edbcaf8a3e4053db1fd1aec7d",
+      "svgHash": "e312a5e185f05c56975beca41aba0b63e9d143196c1915c45c92ed7df63328ea",
       "id": "572:109",
       "name": "Star 1",
-      "x": 288.4054260253906,
-      "y": 104.76354217529297,
+      "x": 300,
+      "y": 100,
       "height": 132,
       "width": 132,
-      "rotation": 24.795431989459285,
+      "rotation": 20.00000065939313,
       "transform": [
-        [0.9078109264373779, 0.41937971115112305, 288.4054260253906],
-        [-0.41937971115112305, 0.9078109264373779, 104.76354217529297]
+        [0.9396926164627075, 0.3420201539993286, 300],
+        [-0.3420201539993286, 0.9396926164627075, 100]
       ],
       "blendMode": "PASS_THROUGH",
       "opacity": 1,
@@ -246,14 +246,14 @@
           "effects": []
         }
       ],
-      "x": 48,
-      "y": 356,
+      "x": 50,
+      "y": 350,
       "height": 96,
       "width": 96,
       "rotation": 0,
       "transform": [
-        [1, 0, 48],
-        [0, 1, 356]
+        [1, 0, 50],
+        [0, 1, 350]
       ],
       "blendMode": "PASS_THROUGH",
       "opacity": 1,
@@ -264,6 +264,146 @@
       "topLeftRadius": 0,
       "topRightRadius": 0,
       "fills": []
+    },
+    {
+      "type": "RECTANGLE",
+      "id": "587:88",
+      "name": "Rectangle 2",
+      "x": 0,
+      "y": 0,
+      "height": 50,
+      "width": 50,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 0],
+        [0, 1, 0]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          }
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "id": "588:89",
+      "name": "Rectangle 3",
+      "x": 545,
+      "y": 0,
+      "height": 50,
+      "width": 50,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 545],
+        [0, 1, 0]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          }
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "id": "588:90",
+      "name": "Rectangle 4",
+      "x": 545,
+      "y": 792,
+      "height": 50,
+      "width": 50,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 545],
+        [0, 1, 792]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          }
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "id": "588:91",
+      "name": "Rectangle 5",
+      "x": 0,
+      "y": 792,
+      "height": 50,
+      "width": 50,
+      "rotation": 0,
+      "transform": [
+        [1, 0, 0],
+        [0, 1, 792]
+      ],
+      "blendMode": "PASS_THROUGH",
+      "opacity": 1,
+      "isMask": false,
+      "effects": [],
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8509804010391235,
+            "g": 0.8509804010391235,
+            "b": 0.8509804010391235
+          }
+        }
+      ]
     }
   ],
   "x": 0,
